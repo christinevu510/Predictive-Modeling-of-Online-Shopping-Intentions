@@ -5,7 +5,7 @@ This is the final project for the University of San Diego’s ADS 504 Machine Le
 The objective of the project is to develop a predictive model that can effectively identify revenue-generating sessions in online shopping. This model will play a crucial role in recognizing and understanding the key factors and user behaviors that significantly influence purchasing decisions. To achieve this, various attributes will be utilized, including the presence of holidays, the number of page visits, and important Google Analytics metrics. By leveraging these attributes, the predictive model aims to provide valuable insights into the drivers behind successful transactions, helping businesses optimize their strategies and enhance the overall shopping experience for users.
 
 ## Repository Contents
-* [Notebook]()
+* [Notebook](https://github.com/christinevu510/Predictive-Modeling-of-Online-Shopping-Intentions/blob/main/Notebook.ipynb)
 * [online_shoppers_intention.csv](https://github.com/christinevu510/Predictive-Modeling-of-Online-Shopping-Intentions/blob/main/data/online_shoppers_intention.csv)
 
 ## Project Description
