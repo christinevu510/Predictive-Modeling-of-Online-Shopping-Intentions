@@ -11,7 +11,16 @@ The objective of the project is to develop a predictive model that can effective
 ## Project Description
 ### Data Sources
 The [online shoppers intention dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) is acquired from the UC Irvine Machine Learning Repository website.
-
+### Models
+* Logistic Regression
+* K-Nearest Neighbors
+* Decision Tree
+* Random Forest
+* Gaussian Naive Bayes
+* Linear SVC
+* AdaBoost
+* Neural Network
+  
 ### Technologies
 * Python
 
